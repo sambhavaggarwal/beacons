@@ -6,7 +6,7 @@ export default function Header() {
     <section class="colored-section" id="title">
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg navbar-dark">
-          <a class="navbar-brand">Beacon</a>
+          <a class="navbar-brand">CovidTogether</a>
           <button
             class="navbar-toggler"
             type="button"
