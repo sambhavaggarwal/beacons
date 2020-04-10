@@ -2,7 +2,7 @@ const path = require("path");
 const express = require("express");
 const port = process.env.PORT || 3000;
 const app = express();
-const mongoose = require("mongoose");
+// const mongoose = require("mongoose");
 require("dotenv").config();
 
 const publicPath = path.join(__dirname, "..", "build");
